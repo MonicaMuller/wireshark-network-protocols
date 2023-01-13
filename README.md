@@ -22,15 +22,15 @@ In this project, I observed various network traffic to and from Azure Virtual Ma
 <h2>High-Level Steps</h2>
 
 - Create 2 virtual machines, one with Windows 10 and the other with Ubuntu
--	Connect to the Windows 10 VM using Remote Desktop
--	Install Wireshark within the Windows 10 VM
--	Initiate a non-stop ping to the Ubuntu VM, add an inbound rule in the Ubuntu VM’s Network Security Group to deny ICMP traffic, and observe the effect in Wireshark
--	Re-enable ICMP traffic in the Ubuntu VM’s Network Security Group, observe the effect in Wireshark, then end the ping activity
--	SSH into the Ubuntu VM and observe the effect in Wireshark, then exit SSH
--	In the Windows 10 VM, attempt to issue the VM a new IP address using ipconfig /renew and observe DHCP traffic in Wireshark
--	Use the nslookup command and observe DNS traffic in Wireshark
--	Observe ongoing RDP traffic in Wireshark
--	Delete Resource Groups in Azure
+- Connect to the Windows 10 VM using Remote Desktop
+- Install Wireshark within the Windows 10 VM
+- Initiate a non-stop ping to the Ubuntu VM, add an inbound rule in the Ubuntu VM’s Network Security Group to deny ICMP traffic, and observe the effect in Wireshark
+- Re-enable ICMP traffic in the Ubuntu VM’s Network Security Group, observe the effect in Wireshark, then end the ping activity
+- SSH into the Ubuntu VM and observe the effect in Wireshark, then exit SSH
+- In the Windows 10 VM, attempt to issue the VM a new IP address using ipconfig /renew and observe DHCP traffic in Wireshark
+- Use the nslookup command and observe DNS traffic in Wireshark
+- Observe ongoing RDP traffic in Wireshark
+- Delete Resource Groups in Azure
 
 
 <h2>Synopsis</h2>
