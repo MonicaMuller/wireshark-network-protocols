@@ -44,7 +44,7 @@ In order to do this lab, I first needed to create two virtual machines, one with
 <br />
 
 <p>
-<img src="https://i.imgur.com/Ti3apo4.png" height="70%" width="70%"/>
+<img src="https://i.imgur.com/aZ5e3QF.png" height="70%" width="70%"/>
 </p>
 <p>
 In the top right corner is the public IP address, which I copied and pasted into Remote Desktop in order to connect to VM1 and use it for the lab.
