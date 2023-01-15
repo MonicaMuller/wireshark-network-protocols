@@ -124,6 +124,6 @@ Lastly, I used Wireshark to view RDP traffic, which I did not need to use the Po
 <br />
 
 <p>
-😄 All done! This lab was the first time I used Wireshark, and it was pretty fun. I definitely recommend those new to IT to give it a try, it’s pretty cool to see all the packets you capture!
+✨ All done! This lab was the first time I used Wireshark, and it was pretty fun. I definitely recommend those new to IT to give it a try, it’s pretty cool to see all the packets you capture!
 </p>
 <br />
